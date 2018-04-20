@@ -1,0 +1,15 @@
+\contentsline {section}{Contents}{1}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Major types}{3}
+\contentsline {subsection}{\numberline {2.1}Solar Energy}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}Photovoltaic}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}Solar}{3}
+\contentsline {subsection}{\numberline {2.2}Hydropower}{3}
+\contentsline {subsection}{\numberline {2.3}Geothermal energy}{4}
+\contentsline {subsection}{\numberline {2.4}Wind energy}{5}
+\contentsline {subsubsection}{\numberline {2.4.1}Wind farms}{5}
+\contentsline {subsection}{\numberline {2.5}Self sufficient country in energy}{6}
+\contentsline {section}{\numberline {3}Something more to add}{7}
+\contentsline {subsection}{\numberline {3.1}Can we have code snippets in \LaTeX ?}{7}
+\contentsline {subsection}{\numberline {3.2}How about math formulas?}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Arrays}{7}
